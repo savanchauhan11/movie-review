@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Sicario",
+    "year": 2015,
+    "genre": "Crime",
+    "director": "Denis Villeneuve",
+    "description": "An FBI agent joins a task force to fight Mexican drug cartels, facing moral dilemmas along the way.",
+    "posterUrl": "/posters/sicario.jpg",
+    "videoUrl": "https://example.com/sicario.mp4",
+    "rating": 7.6
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "genre": "Crime",
+    "director": "Michael Mann",
+    "description": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+    "posterUrl": "/posters/heat.jpg",
+    "videoUrl": "https://example.com/heat.mp4",
+    "rating": 8.2
+  },
+  {
+    "title": "Collateral",
+    "year": 2004,
+    "genre": "Crime",
+    "director": "Michael Mann",
+    "description": "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+    "posterUrl": "/posters/collateral.jpg",
+    "videoUrl": "https://example.com/collateral.mp4",
+    "rating": 7.5
+  },
+  {
+    "title": "Inside Man",
+    "year": 2006,
+    "genre": "Crime",
+    "director": "Spike Lee",
+    "description": "A tough detective matches wits with a cunning bank robber as a tense hostage crisis unfolds.",
+    "posterUrl": "/posters/insideman.jpg",
+    "videoUrl": "https://example.com/insideman.mp4",
+    "rating": 7.6
+  },
+  {
+    "title": "Zodiac",
+    "year": 2007,
+    "genre": "Crime",
+    "director": "David Fincher",
+    "description": "The hunt for the Zodiac Killer intensifies as journalists and police become obsessed with solving the case.",
+    "posterUrl": "/posters/zodiac.jpg",
+    "videoUrl": "https://example.com/zodiac.mp4",
+    "rating": 7.9
+  },
+  {
+    "title": "Nightcrawler",
+    "year": 2014,
+    "genre": "Thriller",
+    "director": "Dan Gilroy",
+    "description": "A con man discovers the high-speed world of L.A. crime journalism and becomes dangerously involved in it.",
+    "posterUrl": "/posters/nightcrawler.jpg",
+    "videoUrl": "https://example.com/nightcrawler.mp4",
+    "rating": 7.9
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "genre": "Mystery",
+    "director": "David Fincher",
+    "description": "A journalist and a computer hacker investigate a wealthy family's dark secrets.",
+    "posterUrl": "/posters/dragon.jpg",
+    "videoUrl": "https://example.com/dragon.mp4",
+    "rating": 7.8
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "genre": "Mystery",
+    "director": "David Fincher",
+    "description": "A man becomes the prime suspect in the disappearance of his wife, revealing hidden truths.",
+    "posterUrl": "/posters/gonegirl.jpg",
+    "videoUrl": "https://example.com/gonegirl.mp4",
+    "rating": 8.1
+  },
+  {
+    "title": "Primal Fear",
+    "year": 1996,
+    "genre": "Mystery",
+    "director": "Gregory Hoblit",
+    "description": "An altar boy is accused of murdering a priest, and a defense attorney takes on the case that reveals shocking secrets.",
+    "posterUrl": "/posters/primalfear.jpg",
+    "videoUrl": "https://example.com/primalfear.mp4",
+    "rating": 7.7
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "genre": "Thriller",
+    "director": "David Fincher",
+    "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+    "posterUrl": "/posters/seven.jpg",
+    "videoUrl": "https://example.com/seven.mp4",
+    "rating": 8.6
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "genre": "Mystery",
+    "director": "M. Night Shyamalan",
+    "description": "A troubled young boy claims he can see dead people, leading a psychologist to uncover a shocking truth.",
+    "posterUrl": "/posters/sixthsense.jpg",
+    "videoUrl": "https://example.com/sixthsense.mp4",
+    "rating": 8.1
+  },
+  {
+    "title": "The Imitation Game",
+    "year": 2014,
+    "genre": "Biography",
+    "director": "Morten Tyldum",
+    "description": "Alan Turing and his team crack the German Enigma code during World War II, facing personal and professional challenges.",
+    "posterUrl": "/posters/imitationgame.jpg",
+    "videoUrl": "https://example.com/imitationgame.mp4",
+    "rating": 8.0
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "genre": "Biography",
+    "director": "David Fincher",
+    "description": "The story of Facebook's creation, exploring betrayal, ambition, and legal battles.",
+    "posterUrl": "/posters/socialnetwork.jpg",
+    "videoUrl": "https://example.com/socialnetwork.mp4",
+    "rating": 7.7
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "year": 2018,
+    "genre": "Biography",
+    "director": "Bryan Singer",
+    "description": "A chronicle of Freddie Mercury's rise with Queen, his personal struggles, and the band's legendary Live Aid performance.",
+    "posterUrl": "/posters/bohemianrhapsody.jpg",
+    "videoUrl": "https://example.com/bohemianrhapsody.mp4",
+    "rating": 7.9
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "genre": "Biography",
+    "director": "Steven Spielberg",
+    "description": "The true story of Frank Abagnale Jr., who successfully performed cons worth millions before his 19th birthday.",
+    "posterUrl": "/posters/catchmeifyoucan.jpg",
+    "videoUrl": "https://example.com/catchmeifyoucan.mp4",
+    "rating": 8.1
+  },
+  {
+    "title": "127 Hours",
+    "year": 2010,
+    "genre": "Biography",
+    "director": "Danny Boyle",
+    "description": "Aron Ralston becomes trapped by a boulder in an isolated canyon and must take drastic measures to survive.",
+    "posterUrl": "/posters/127hours.jpg",
+    "videoUrl": "https://example.com/127hours.mp4",
+    "rating": 7.6
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "genre": "Biography",
+    "director": "Ron Howard",
+    "description": "The story of John Nash, a brilliant mathematician who struggles with schizophrenia.",
+    "posterUrl": "/posters/abeautifulmind.jpg",
+    "videoUrl": "https://example.com/abeautifulmind.mp4",
+    "rating": 8.2
+  },
+  {
+    "title": "The Conjuring",
+    "year": 2013,
+    "genre": "Horror",
+    "director": "James Wan",
+    "description": "Paranormal investigators work to help a family terrorized by a dark presence in their farmhouse.",
+    "posterUrl": "/posters/conjuring.jpg",
+    "videoUrl": "https://example.com/conjuring.mp4",
+    "rating": 7.5
+  },
+  {
+    "title": "It",
+    "year": 2017,
+    "genre": "Horror",
+    "director": "Andy Muschietti",
+    "description": "A group of kids in Derry face off against Pennywise, a shape-shifting clown terrorizing their town.",
+    "posterUrl": "/posters/it.jpg",
+    "videoUrl": "https://example.com/it.mp4",
+    "rating": 7.3
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "genre": "Horror",
+    "director": "Ari Aster",
+    "description": "A grieving family is haunted by tragic and disturbing events after the death of their secretive grandmother.",
+    "posterUrl": "/posters/hereditary.jpg",
+    "videoUrl": "https://example.com/hereditary.mp4",
+    "rating": 7.3
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "genre": "Horror",
+    "director": "John Krasinski",
+    "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+    "posterUrl": "/posters/aquietplace.jpg",
+    "videoUrl": "https://example.com/aquietplace.mp4",
+    "rating": 7.5
+  },
+  {
+    "title": "It Follows",
+    "year": 2014,
+    "genre": "Horror",
+    "director": "David Robert Mitchell",
+    "description": "A young woman is followed by a supernatural entity after a sexual encounter, and must find a way to escape it.",
+    "posterUrl": "/posters/itfollows.jpg",
+    "videoUrl": "https://example.com/itfollows.mp4",
+    "rating": 6.8
+  },
+  {
+    "title": "Get Carter",
+    "year": 1971,
+    "genre": "Crime",
+    "director": "Mike Hodges",
+    "description": "A London gangster returns to his hometown to investigate his brother's suspicious death.",
+    "posterUrl": "/posters/getcarter.jpg",
+    "videoUrl": "https://example.com/getcarter.mp4",
+    "rating": 7.3
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "genre": "Crime",
+    "director": "Joel Coen, Ethan Coen",
+    "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and takes a suitcase full of money.",
+    "posterUrl": "/posters/nocountry.jpg",
+    "videoUrl": "https://example.com/nocountry.mp4",
+    "rating": 8.1
+  },
+  {
+    "title": "The Revenant",
+    "year": 2015,
+    "genre": "Drama",
+    "director": "Alejandro G. Iñárritu",
+    "description": "A frontiersman on a fur trading expedition fights for survival after being mauled by a bear and left for dead.",
+    "posterUrl": "/posters/revenant.jpg",
+    "videoUrl": "https://example.com/revenant.mp4",
+    "rating": 8.0
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": "Drama",
+    "director": "Damien Chazelle",
+    "description": "A young drummer enrolls at a music conservatory and struggles under an abusive instructor to achieve greatness.",
+    "posterUrl": "/posters/whiplash.jpg",
+    "videoUrl": "https://example.com/whiplash.mp4",
+    "rating": 8.5
+  },
+  {
+    "title": "Birdman",
+    "year": 2014,
+    "genre": "Drama",
+    "director": "Alejandro G. Iñárritu",
+    "description": "A washed-up actor, famous for his superhero role, struggles to mount a Broadway play and reclaim his career.",
+    "posterUrl": "/posters/birdman.jpg",
+    "videoUrl": "https://example.com/birdman.mp4",
+    "rating": 7.7
+  },
+  {
+    "title": "The Lighthouse",
+    "year": 2019,
+    "genre": "Horror",
+    "director": "Robert Eggers",
+    "description": "Two lighthouse keepers slowly descend into madness while living on a remote and mysterious island.",
+    "posterUrl": "/posters/lighthouse.jpg",
+    "videoUrl": "https://example.com/lighthouse.mp4",
+    "rating": 7.5
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "genre": "Horror",
+    "director": "Robert Eggers",
+    "description": "A Puritan family encounters forces of evil in the woods beyond their New England farm.",
+    "posterUrl": "/posters/witch.jpg",
+    "videoUrl": "https://example.com/witch.mp4",
+    "rating": 6.9
+  },
+  {
+    "title": "Suspiria",
+    "year": 2018,
+    "genre": "Horror",
+    "director": "Luca Guadagnino",
+    "description": "A darkness swirls at a world-renowned dance company, threatening the lives of a young dancer and her friends.",
+    "posterUrl": "/posters/suspiria.jpg",
+    "videoUrl": "https://example.com/suspiria.mp4",
+    "rating": 6.8
+  },
+  {
+    "title": "Prison Break",
+    "year": 2005,
+    "genre": "Action",
+    "director": "Brett Ratner",
+    "description": "Two brothers, one wrongly accused, plan an elaborate escape from a high-security prison.",
+    "posterUrl": "/posters/prisonbreak.jpg",
+    "videoUrl": "https://example.com/prisonbreak.mp4",
+    "rating": 7.4
+  },
+  {
+    "title": "Baby Driver",
+    "year": 2017,
+    "genre": "Action",
+    "director": "Edgar Wright",
+    "description": "A young getaway driver finds himself taking part in a doomed heist after being coerced into working for a crime boss.",
+    "posterUrl": "/posters/babydriver.jpg",
+    "videoUrl": "https://example.com/babydriver.mp4",
+    "rating": 7.6
+  },
+  {
+    "title": "Fury",
+    "year": 2014,
+    "genre": "Action",
+    "director": "David Ayer",
+    "description": "A hardened tank crew in World War II faces overwhelming odds as they push into enemy territory.",
+    "posterUrl": "/posters/fury.jpg",
+    "videoUrl": "https://example.com/fury.mp4",
+    "rating": 7.5
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "genre": "Mystery",
+    "director": "Quentin Tarantino",
+    "description": "Bounty hunters seek shelter during a blizzard, uncovering secrets and hidden agendas.",
+    "posterUrl": "/posters/hatefuleight.jpg",
+    "videoUrl": "https://example.com/hatefuleight.mp4",
+    "rating": 7.8
+  },
+  {
+    "title": "Looper",
+    "year": 2012,
+    "genre": "Sci-Fi",
+    "director": "Rian Johnson",
+    "description": "A hired gun faces his future self while working for a crime syndicate in a future ruled by time travel.",
+    "posterUrl": "/posters/looper2.jpg",
+    "videoUrl": "https://example.com/looper2.mp4",
+    "rating": 7.4
+  },
+  {
+    "title": "District 13",
+    "year": 2004,
+    "genre": "Action",
+    "director": "Pierre Morel",
+    "description": "A cop and a criminal must work together to save a Paris district from a criminal gang.",
+    "posterUrl": "/posters/district13.jpg",
+    "videoUrl": "https://example.com/district13.mp4",
+    "rating": 7.2
+  },
+  {
+    "title": "Sin City",
+    "year": 2005,
+    "genre": "Crime",
+    "director": "Robert Rodriguez, Frank Miller",
+    "description": "An exploration of crime and vengeance in a corrupt city through interweaving stories.",
+    "posterUrl": "/posters/sincity.jpg",
+    "videoUrl": "https://example.com/sincity.mp4",
+    "rating": 8.0
+  },
+  {
+    "title": "The Man from U.N.C.L.E.",
+    "year": 2015,
+    "genre": "Action",
+    "director": "Guy Ritchie",
+    "description": "During the Cold War, a CIA agent and a KGB operative team up on a mission to stop a mysterious criminal organization.",
+    "posterUrl": "/posters/manfromuncle.jpg",
+    "videoUrl": "https://example.com/manfromuncle.mp4",
+    "rating": 7.3
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "year": 2017,
+    "genre": "Mystery",
+    "director": "Kenneth Branagh",
+    "description": "Detective Hercule Poirot investigates a murder aboard a luxurious train filled with suspects.",
+    "posterUrl": "/posters/orientexpress.jpg",
+    "videoUrl": "https://example.com/orientexpress.mp4",
+    "rating": 6.5
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "genre": "Drama",
+    "director": "Todd Phillips",
+    "description": "A failed comedian descends into madness and chaos in Gotham City, becoming the iconic villain.",
+    "posterUrl": "/posters/joker.jpg",
+    "videoUrl": "https://example.com/joker.mp4",
+    "rating": 8
+  }
+]
